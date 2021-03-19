@@ -1,0 +1,355 @@
+{
+    "NomadList": {
+        "channels": [
+            {
+                "name": "general",
+                "messages": [
+                    {
+                        "author": "Jeshua Stout",
+                        "avatar": "assets/images/profiles/users/user-11.png",
+                        "date": 1215158807595,
+                        "message": null,
+                        "extra": {
+                            "link": {
+                                "text": "@pierrhack I dit for 6 days in Iceland",
+                                "href": "/"
+                            }
+                        }
+                    }, 
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1415158807595,
+                        "message": "Which country to visit next? This is a photo with my friends - celebrating in Bali",
+                        "extra": {
+                            "img": {
+                                "name": "my-top-paces.jpg",
+                                "src": "assets/images/profiles/messages/photo1.png"
+                            }
+                        }
+                    },
+                    {
+                        "author": "Aada Laine",
+                        "avatar": "assets/images/profiles/users/user-09.png",
+                        "date": 1515158807595,
+                        "message": null,
+                        "extra": {
+                            "link": {
+                                "text": "@har_adams wow it’s amazing, I want to buy a van and travelling next year",
+                                "href": "/"
+                            }
+                        }
+                    },
+                    {
+                        "author": "Nala Hester",
+                        "avatar": "assets/images/profiles/users/user-08.png",
+                        "date": 1615158807595,
+                        "message": "Working from a van in Australia isn’t feasible if you need internet. It may have improved over the last years but I spent some time in a camper van around Tasmania and internet was a real problem (and Tasmania is tiny compared to the rest of the country).",
+                        "extra": null
+                    },
+                    {
+                        "author": "Ramon Bateman",
+                        "avatar": "assets/images/profiles/users/user-07.png",
+                        "date": 1615158807595,
+                        "message": "What's the reason for the van? Saving money or just like to get outside? If you've got a stable source of income you could always do some short term Airbnbs + buy a truck/topper, build a platform in the back. That way you can always convert it back to a truck and sleep in an apartment if you want.",
+                        "extra": {
+                            "link": {
+                                "text": "@aa_da",
+                                "href": "/"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "support",
+                "messages": [
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1434158807595,
+                        "message": "Hello, what's up?",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Dina Rouee",
+                        "avatar": "assets/images/profiles/users/user-03.png",
+                        "date": 1415158807595,
+                        "message": "Hi, what are you talking about? I'm good",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1434558807595,
+                        "message": "I've heard you got at the hospital",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Dina Rouee",
+                        "avatar": "assets/images/profiles/users/user-03.png",
+                        "date": 1415158807595,
+                        "message": "Ahhh...it was accident. We were playing in volleyball when I fall down and hurt my leg. Now I'm good and already at home ",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1437558807595,
+                        "message": "I'm glad to hear that you're good. What did say you doctor?",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Dina Rouee",
+                        "avatar": "assets/images/profiles/users/user-03.png",
+                        "date": 1438558807595,
+                        "message": "He told me to lie in my bad 4-5 days, not working, not going and go to him 15 at 12.00",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1450558807595,
+                        "message": "Do you want me to go with you?",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Dina Rouee",
+                        "avatar": "assets/images/profiles/users/user-03.png",
+                        "date": 1438558807595,
+                        "message": "If you want it..",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1451558807595,
+                        "message": "Ok, see you:)",
+                        "extra": {
+                        }
+                    }                   
+                ]
+            },
+            {
+                "name": "marketing",
+                "messages": [                 
+                    {
+                        "author": "Jeshua Stout",
+                        "avatar": "assets/images/profiles/users/user-11.png",
+                        "date": 1216158807595,
+                        "message": "photo1",
+                        "extra": {
+                        }
+                    }, 
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1414158807595,
+                        "message": "Which country to visit next? This is a photo with my friends - celebrating in Bali",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1414158807595,
+                        "message": "Advise me pls",
+                        "extra": {
+                            "img": {
+                                "name": "my-top-paces.jpg",
+                                "src": "assets/images/profiles/messages/photo1.png"
+                            }
+                        }
+                    },
+                    {
+                        "author": "Aada Laine",
+                        "avatar": "assets/images/profiles/users/user-09.png",
+                        "date": 1517158807595,
+                        "message": "Which country to visit next?",
+                        "extra": {
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "bali",
+                "messages": [
+                    {
+                        "author": "Jeshua Stout",
+                        "avatar": "assets/images/profiles/users/user-11.png",
+                        "date": 1216158807595,
+                        "message": "celebrating in Bali",
+                        "extra": {
+                        }
+                    }, 
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1414158807595,
+                        "message": "Which country to visit next? This is a photo with my friends - celebrating in Bali",
+                        "extra": {
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "poland",
+                "messages": [
+                    {
+                        "author": "Jeshua Stout",
+                        "avatar": "assets/images/profiles/users/user-11.png",
+                        "date": 1216158807595,
+                        "message": "Which country to visit next? This is a photo with my friends - celebrating in Bali",
+                        "extra": {
+                        }
+                    }, 
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1414158807595,
+                        "message": "Which country to visit next? This is a photo with my friends - celebrating in Bali",
+                        "extra": {
+                        }
+                    },
+                    {
+                        "author": "Jeshua Stout",
+                        "avatar": "assets/images/profiles/users/user-11.png",
+                        "date": 1216158807595,
+                        "message": "I want to buy a van and travelling next year",
+                        "extra": {
+                        }
+                    }, 
+                    {
+                        "author": "Harold Adams",
+                        "avatar": "assets/images/profiles/users/user-10.png",
+                        "date": 1414158807595,
+                        "message": "Which country to visit next? This is a photo with my friends - celebrating in Bali",
+                        "extra": {
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "australia",
+                "messages": [
+                    {
+                        "author": "Aada Laine",
+                        "avatar": "assets/images/profiles/users/user-09.png",
+                        "date": 1515158807595,
+                        "message": "What's the reason for the van? Saving money or just like to get outside?",
+                        "extra": {
+                            "link": {
+                                "text": "@har_adams wow it’s amazing, I want to buy a van and travelling next year",
+                                "href": "/"
+                            }
+                        }
+                    },
+                    {
+                        "author": "Nala Hester",
+                        "avatar": "assets/images/profiles/users/user-08.png",
+                        "date": 1615158807595,
+                        "message": "Working from a van in Australia isn’t feasible if you need internet. It may have improved over the last years but I spent some time in a camper van around Tasmania and internet was a real problem (and Tasmania is tiny compared to the rest of the country).",
+                        "extra": null
+                    },
+                    {
+                        "author": "Aada Laine",
+                        "avatar": "assets/images/profiles/users/user-09.png",
+                        "date": 1535158807595,
+                        "message": null,
+                        "extra": {
+                            "link": {
+                                "text": "@har_adams wow it’s amazing, I want to buy a van and travelling next year",
+                                "href": "/"
+                            }
+                        }
+                    },
+                    {
+                        "author": "Nala Hester",
+                        "avatar": "assets/images/profiles/users/user-08.png",
+                        "date": 1655158807595,
+                        "message": "Working from a van in Australia isn’t feasible if you need internet. It may have improved over the last years but I spent some time in a camper van around Tasmania and internet was a real problem (and Tasmania is tiny compared to the rest of the country).",
+                        "extra": null
+                    }
+                ]
+            },
+            {
+                "name": "jobs",
+                "messages": [
+                    {
+                        
+                    }
+                ]
+            },
+            {
+                "name": "startups",
+                "messages": [
+                    {
+                        
+                    }
+                ]
+            },
+            {
+                "name": "italy",
+                "messages": [
+                    {
+                        
+                    }
+                ]
+            },
+            {
+                "name": "freelance",
+                "messages": [
+                    {
+                        
+                    }
+                ]
+            }
+        ],
+        "friends": [
+            {
+                "id": 1,
+                "name": "Orlando Diggs",
+                "imagePath": "assets/images/profiles/users/user-06.png",
+                "isOnline": true
+            },
+            {
+                "id": 2,
+                "name": "Carmen Velasco",
+                "imagePath": "assets/images/profiles/users/user-05.png",
+                "isOnline": true
+            },
+            {
+                "id": 3,
+                "name": "Marie Jensen",
+                "imagePath": "assets/images/profiles/users/user-04.png",
+                "isOnline": false
+            },
+            {
+                "id": 4,
+                "name": "Alex Lee",
+                "imagePath": "assets/images/profiles/users/user-03.png",
+                "isOnline": false
+            },
+            {
+                "id": 5,
+                "name": "Leo Gill",
+                "imagePath": "assets/images/profiles/users/user-02.png",
+                "isOnline": false
+            },
+            {
+                "id": 6,
+                "name": "Britney Cooper",
+                "imagePath": "assets/images/profiles/users/user-01.png",
+                "isOnline": false
+            }
+        ]
+    }    
+}
